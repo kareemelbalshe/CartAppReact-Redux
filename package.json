@@ -1,5 +1,6 @@
 {
   "name": "cartapp",
+  "homepage": "https://cart-app.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
