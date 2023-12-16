@@ -1,6 +1,6 @@
 {
   "name": "cartapp",
-  "homepage": "https://kareemelbalshe.github.io/cart-app",
+  "homepage": "https://kareemelbalshe.github.io/CartAppReact-Redux",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
